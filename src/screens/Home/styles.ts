@@ -25,6 +25,7 @@ export const styles  = StyleSheet.create({
       backgroundColor:'#1F1E25',
       borderRadius:5,
       marginRight:12,
+      color:'#fff'
 
     },
     buttonText:{
